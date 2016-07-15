@@ -8,7 +8,11 @@ dribbble客户端是我独立开发的，技术水平有限加上时间仓促，
 如果你喜欢的话，请star我一下（点击上方的star按钮），祝你越来越帅，越来越美。:D
 
 # 部分截图       
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193548.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193618.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193655.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193728.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193756.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193825.png)
+![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193847.png)
+
