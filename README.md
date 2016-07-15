@@ -9,7 +9,6 @@ dribbble客户端是我独立开发的，技术水平有限加上时间仓促，
 
 # 部分截图       
 ![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193548.png)
-![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193618.png)
 ![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193655.png)
 ![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193728.png)
 ![](https://github.com/yamaidie/Mydribbble/blob/master/sreeenshot%2FScreenshot_20160715-193756.png)
