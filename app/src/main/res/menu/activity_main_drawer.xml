@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shots"
+            android:icon="@drawable/shots"
+            android:title="@string/Shots" />
+        <item
+            android:id="@+id/nav_designers"
+            android:icon="@drawable/collection"
+            android:title="@string/Following" />
+        <item
+            android:id="@+id/nav_myshots"
+            android:icon="@drawable/myshots"
+            android:title="@string/MyShots" />
+        <item
+            android:id="@+id/nav_buckets"
+            android:icon="@drawable/basket"
+            android:title="@string/Basket" />
+       <!-- <item
+            android:id="@+id/nav_teams"
+            android:icon="@drawable/team"
+            android:title="@string/Teams" />-->
+<!--        <item
+            android:id="@+id/nav_project"
+            android:icon="@drawable/story"
+            android:title="@string/Project" />-->
+        <item
+            android:id="@+id/nav_likes"
+            android:icon="@drawable/like"
+            android:title="@string/Like" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/settings"
+                android:title="@string/action_settings" />
+            <item
+                android:id="@+id/nav_aboutApp"
+                android:icon="@drawable/aboutapp"
+                android:title="@string/AboutApp" />
+        </menu>
+    </item>
+
+</menu>

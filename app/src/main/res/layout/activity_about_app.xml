@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    tools:context="com.oddfeel.awesomedribbble.ui.about.AboutAPPActivity">
+
+    <TextView
+        android:textColor="#000000"
+        android:text="dribbble客户端是我独立开发的，技术水平有限加上时间仓促，难免有bug，如果你有什么建议或者bug，请与我联系，谢谢\n联系方式：\n1.github:https://github.com/yamaidie/Mydribbble,提交issue\n2.邮箱：970196066@qq.com"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

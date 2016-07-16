@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">dribbble</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_sort">sort</string>
+    <string name="sort_popularity">popularity</string>
+    <string name="sort_comments">comments</string>
+    <string name="sort_recent">recent</string>
+    <string name="sort_views">views</string>
+
+    <string name="action_timeframe">timeframe</string>
+    <string name="timeframe_now">now</string>
+    <string name="timeframe_week">week</string>
+    <string name="timeframe_month">month</string>
+    <string name="timeframe_year">year</string>
+    <string name="timeframe_ever">ever</string>
+
+
+    <string name="Home">Home</string>
+
+    <!--navigation drawer item-->
+    <string name="Shots">Shots</string>
+    <string name="Designers">Designers</string>
+    <string name="Following">Following</string>
+    <string name="MyShots">My Shots</string>
+    <string name="Basket">Collection</string>
+    <string name="Teams">Teams</string>
+    <string name="Project">Project</string>
+    <string name="Like">Like</string>
+    <string name="Settings">Settings</string>
+    <string name="Others">Others</string>
+    <string name="AboutApp">AboutApp</string>
+
+    <string name="Language">Language</string>
+    <string name="ChooseLanguage">Choose Language</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Cancel">Cancel</string>
+
+    <string name="Login">Login</string>
+
+    <string-array name="Language">
+        <item>English</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string name="Theme">Theme</string>
+    <string name="title_activity_user_info">Information</string>
+    <string name="title_activity_shot_detail">
+    </string>
+    <string name="large_text">
+    </string>
+    <string name="title_activity_bucket">Bucket</string>
+    <string name="title_activity_following">Following</string>
+
+</resources>

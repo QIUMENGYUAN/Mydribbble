@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorValue" format="color" />
+    <attr name="floatValue" format="float" />
+    <attr name="integerValue" format="integer" />
+    <attr name="booleanValue" format="boolean" />
+    <attr name="dimensionValue" format="dimension" />
+    <attr name="stringValue" format="string" />
+    <attr name="referenceValue" format="reference" />
+
+    <!--因为在夜间模式下不仅要切换主色调，次要色调等等，还要覆盖一些特殊的颜色-->
+    <attr name="containerBackground" format="reference|color"/>
+    <attr name="cardBackground" format="reference|color"/>
+    <attr name="titleColor" format="reference|color"/>
+    <attr name="textColor" format="reference|color"/>
+    <attr name="selectorBtn" format="reference"/>
+    <attr name="selectorListItem" format="reference"/>
+</resources>

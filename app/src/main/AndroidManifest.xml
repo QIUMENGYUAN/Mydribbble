@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.oddfeel.awesomedribbble">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.settings.SettingsActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".ui.LoginActivity"
+            android:label="@string/Login"
+            android:launchMode="singleTask" />
+        <activity android:name=".ui.user.UserInfoActivity" />
+        <activity
+            android:name=".ui.shot.ShotDetailActivity"
+            android:label="@string/title_activity_shot_detail"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ui.shot.Shots_authorActivity" />
+        <activity
+            android:name=".ui.SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.MyLike.MyLikeActivity"
+            android:label="@string/Like" />
+        <activity
+            android:name=".ui.bucket.BucketActivity"
+            android:label="@string/title_activity_bucket" />
+        <activity android:name=".ui.bucket.BucketShotsActivity" />
+        <activity android:name=".ui.bucket.UserBucketsActivity" />
+        <activity android:name=".ui.user.UserLikeActivity" />
+        <activity
+            android:name=".ui.following.FollowingShotsActivity"
+            android:label="@string/Following" />
+        <activity android:name=".ui.user.UserListActivity" />
+        <activity android:name=".ui.shot.UserShotsActivity" />
+        <activity android:name=".ui.following.FollowingsActivity" />
+        <activity android:name=".ui.about.AboutAPPActivity"></activity>
+    </application>
+
+</manifest>

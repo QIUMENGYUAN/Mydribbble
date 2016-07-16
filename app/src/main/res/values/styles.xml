@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--    &lt;!&ndash; 日间模式 &ndash;&gt;
+    <style name="AppTheme.day" parent="AppTheme">
+        <item name="containerBackground">@color/white_dark</item>
+        <item name="titleColor">@color/gray_dark</item>
+        <item name="textColor">@color/gray</item>
+        <item name="selectorBtn">@drawable/navigator_list_item_day</item>
+        <item name="selectorListItem">@drawable/list_item_day</item>
+    </style>-->
+    <!-- 夜间模式 -->
+    <style name="AppTheme.night" parent="AppTheme">
+        <item name="containerBackground">@color/green_dark</item>
+        <item name="titleColor">@color/white_dark</item>
+        <item name="textColor">@color/green_light</item>
+        <item name="selectorBtn">@drawable/nighttheme</item>
+    </style>
+    <!--春-->
+    <style name="AppTheme.spring" parent="AppTheme">
+        <item name="containerBackground">@color/green_dark</item>
+        <item name="titleColor">@color/white_dark</item>
+        <item name="textColor">@color/green_light</item>
+        <item name="selectorBtn">@drawable/nighttheme</item>
+    </style>
+    <!--夏-->
+    <style name="AppTheme.summer" parent="AppTheme">
+        <item name="containerBackground">@color/green_dark</item>
+        <item name="titleColor">@color/white_dark</item>
+        <item name="textColor">@color/green_light</item>
+        <item name="selectorBtn">@drawable/nighttheme</item>
+    </style>
+    <!--秋-->
+    <style name="AppTheme.autumn" parent="AppTheme">
+        <item name="containerBackground">@color/green_dark</item>
+        <item name="titleColor">@color/white_dark</item>
+        <item name="textColor">@color/green_light</item>
+        <item name="selectorBtn">@drawable/nighttheme</item>
+    </style>
+    <!--冬-->
+    <style name="AppTheme.winter" parent="AppTheme">
+        <item name="containerBackground">@color/green_dark</item>
+        <item name="titleColor">@color/white_dark</item>
+        <item name="textColor">@color/green_light</item>
+        <item name="selectorBtn">@drawable/nighttheme</item>
+    </style>
+
+</resources>
